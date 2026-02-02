@@ -14,7 +14,9 @@
   - [Maryland Chinese Baptist Church](https://www.mdcbc.org/)
 - <b>VT Bridge Program</b>
   - [Canvas Page](https://canvas.vt.edu/courses/212125)
-
+- <b>TCA Analysis</b>
+  - [Uber TCA](https://docs.google.com/document/d/1TjD51iqSJpm4BnF81TVwH1nAO1LzXnSzjwVbZ7MJWhk/edit?tab=t.0)
+  - [Airbnb TCA](https://docs.google.com/document/d/1NBVsR7kNAGEZj3ZaomKXQpyvb2rOWUaK7tUx_a7H4W0/edit?tab=t.0)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RonaldChen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
