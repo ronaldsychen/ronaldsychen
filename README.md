@@ -6,7 +6,8 @@
 - [Agent document link](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
 - [Phishing data link](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
 - <b>AI Agent Automation: Setup, Optimization, and Performance Testing</b>
-  - [Agent Document Link](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i>(Potentially NSFW)</b></i>
+  - [Agent Document Link](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
+  - [Phishing Data Link](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
