@@ -3,15 +3,15 @@
 <h2>👨‍💻 Related Projects </h2>
 
 - <b>AI Agent Automation: Setup, Optimization, and Performance Testing</b>
-  - [Agent Document Link](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
-  - [Phishing Data Link](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
+  - [AI Agent Document](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
+  - [Phishing Data](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
 - <b>Some TryHackMe rooms/labs</b>
   - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
   - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
   - [Nessus Fundamentals](https://tryhackme.com/room/rpnessusredux)
   - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 - <b>One of the Developers of Maryland Chinese Baptist Church</b>
-  - [Maryland Chinese Baptist Church Link](https://www.mdcbc.org/)
+  - [Maryland Chinese Baptist Church](https://www.mdcbc.org/)
 - <b>VT Bridge Program</b>
   - [Canvas Page](https://canvas.vt.edu/courses/212125)
 
