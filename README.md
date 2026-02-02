@@ -12,10 +12,8 @@
   - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 - <b>One of the Developers of Maryland Chinese Baptist Church</b>
   - [Maryland Chinese Baptist Church Link](https://www.mdcbc.org/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>VT Bridge Program</b>
+  - [Canvas Page](https://canvas.vt.edu/courses/212125)
 
 <h2> 🤳 Connect with me:</h2>
 
