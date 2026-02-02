@@ -7,9 +7,9 @@
   - [Phishing Data Link](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
 - <b>Some TryHackMe rooms/labs</b>
   - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+  - [Nessus Fundamentals](https://tryhackme.com/room/rpnessusredux)
+  - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
