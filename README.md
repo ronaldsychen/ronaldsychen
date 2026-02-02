@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Related Projects </h2>
 
-- [AI Agent Automation: Setup, Optimization, and Performance testing] (https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit)
+ <b>AI Agent Automation: Setup, Optimization, and Performance testing </b> (https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit)
   - [Link of Document regarding AI Agent](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
