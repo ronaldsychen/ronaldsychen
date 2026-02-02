@@ -3,7 +3,7 @@
 <h2>👨‍💻 Related Projects </h2>
 
  - <b>AI Agent Automation: Setup, Optimization, and Performance Testing</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Link to document with the agent an](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
