@@ -10,8 +10,8 @@
   - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
   - [Nessus Fundamentals](https://tryhackme.com/room/rpnessusredux)
   - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>One of the Developers of Maryland Chinese Baptist Church</b>
+  - [Maryland Chinese Baptist Church Link](https://www.mdcbc.org/)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
