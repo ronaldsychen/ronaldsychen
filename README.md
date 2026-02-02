@@ -1,11 +1,12 @@
 <h1>Hi, I'm Ronald! <br/><a href="https://github.com/ronaldsychen"></a><a href="https://www.linkedin.com/in/ronald-chen-">Business Information Technology - Cybersecurity, Management, and Analytics</a></h1>
 
 <h2>👨‍💻 Related Projects </h2>
+
 - <b>AI Agent Automation: Setup, Optimization, and Performance Testing</b>
   - [Agent Document Link](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
   - [Phishing Data Link](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Some TryHackMe rooms/labs</b>
+  - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
