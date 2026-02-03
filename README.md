@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronald! <br/><a href="https://github.com/ronaldsychen"></a><a href="https://www.linkedin.com/in/ronald-chen-">Business Information Technology - Cybersecurity, Management, and Analytics</a></h1>
+<h1><br/><a href="https://github.com/ronaldsychen"></a><a href="https://www.linkedin.com/in/ronald-chen-">Business Information Technology - Cybersecurity, Management, and Analytics</a></h1>
 
 <h2>👨‍💻 Related Projects </h2>
 
