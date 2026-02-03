@@ -5,7 +5,7 @@
 - <b>AI Agent Automation: Setup, Optimization, and Performance Testing</b>
   - [AI Agent Document](https://docs.google.com/document/d/1_MCukhj6MeUr9LW2E8pcH8a3XTjdtMTn/edit) <b><i></b></i>
   - [Phishing Data](https://docs.google.com/spreadsheets/d/1Iz8nz1IqrCa4dAAH7JvajlBLCak4-1dOzT0Iovjnta4/edit?gid=1058006735#gid=1058006735) <b><i></b></i>
-- <b>Some TryHackMe rooms/labs</b>
+- <b>Some more important TryHackMe rooms/labs</b>
   - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
   - [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
   - [Nessus Fundamentals](https://tryhackme.com/room/rpnessusredux)
